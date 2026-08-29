@@ -2,17 +2,11 @@
 BCA Student | Ex-AI/ML & Data Science Inter @sarala | Birla University Finalist | Building AI Projects
 
 ## 💻 Tech Stack:
-<p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+- Python: https://shields.io
+- CSS: https://shields.io
+- HTML5: https://shields.io
+- GitHub: https://shields.io
 
 ## 📊 GitHub Stats:
-<p>
-  <img src="https://vercel.app" />
-</p>
-<p>
-  <img src="https://vercel.app" />
-</p>
+- Stats: https://vercel.app
+- Top Langs: https://vercel.app
